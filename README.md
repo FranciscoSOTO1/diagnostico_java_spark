@@ -1,5 +1,5 @@
 # Examen Diagnostico JAVA to Big Data
-
+**cuentas con 24 horas para resolver el ejercicio**
 ## Instrucciones
 
 1. Realizar un fork de este repositorio a tu cuenta de github.
